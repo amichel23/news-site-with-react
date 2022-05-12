@@ -1,0 +1,229 @@
+@media (min-width:600ox){
+  .div {
+      grid-template-columns: 1fr 1fr 1fr;;
+  }
+}
+h1 h3 {
+  font-family: 'Share Tech Mono', monospace;
+}
+body{
+  background-color: rgb(194, 193, 193);
+  font-family: 'Share Tech', sans-serif;
+}
+nav {
+  background-color:  rgb(194, 193, 193);
+  font-family: 'Share Tech', sans-serif;
+}
+
+nav a img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.nav-image {
+  width: 200px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+  margin: 0;
+  font-family: 'Share Tech', sans-serif;
+}
+
+nav a {
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+  width: 100%;
+  text-align: center;
+  font-family: 'Share Tech', sans-serif;
+}
+
+/* .showcase {
+  background: url('./components/images/robot.jpg') center/cover;
+  height: 40vh;
+  color: white;
+  justify-content:last baseline;
+  font-family: 'Share Tech', sans-serif;
+} */
+
+.abstract {
+  width: 50%;
+}
+.btn {
+  border: none;
+  background-color: darkred;
+  color: white;
+  padding: 10px;
+  font-family: 'Share Tech', sans-serif;
+}
+.btn:hover {
+  opacity: .9;
+}
+
+
+.heading {
+  color: white;
+  text-decoration: none;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 35px;
+}
+
+.article-main{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr) ;
+  padding: 10px;
+  justify-content: center;
+  background-color: #f3f3f3;
+  font-family: 'Share Tech', sans-serif;
+}
+
+div {
+  grid-gap: 10px;
+  background-color: white;
+  padding-left: 10px;
+  font-family: 'Share Tech', sans-serif;
+}
+
+
+.images {
+  width: 100%;
+}
+
+.item-1 {
+  color: white;
+  font-size: 9px;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 5px;
+  padding-left: 5px;
+  background-color: rgb(58, 223, 58);
+  border-radius: 25px;
+  width: 12%;
+  font-family: 'Share Tech', sans-serif;
+}
+.anchor {
+  text-decoration: none;
+  color: black;
+  font-family: 'Share Tech', sans-serif;
+}
+
+
+.item-2 {
+  color: white;
+  font-size: 9px;
+  text-transform: uppercase;
+  padding: 5px;
+  background-color: red;
+  border: 1px;
+  border-style: none;
+  border-radius: 25px;
+  width: 12%;
+  text-align: center;
+  font-family: 'Share Tech', sans-serif;
+}
+.item-3 {
+  color: white;
+  font-size: 9px;
+  text-transform: uppercase;
+  padding: 5px;
+  background-color: orange;
+  border-radius: 25px;
+  width: 12%;
+  text-align: center;
+  font-family: 'Share Tech', sans-serif;
+}
+.item-4 {
+  color: white;
+  font-size: 9px;
+  text-transform: uppercase;
+  padding: 5px;
+  background-color: rgb(19, 147, 233);
+  border-radius: 25px;
+  width: 12%;
+  text-align: center;
+  font-family: 'Share Tech', sans-serif;
+}
+.item-5 {
+  color: white;
+  font-size: 9px;
+  text-transform: uppercase;
+  padding: 5px;
+  background-color: rgb(170, 95, 189);
+  border-radius: 25px;
+  width: 12%;
+  text-align: center;
+  font-family: 'Share Tech', sans-serif;
+}
+.item-6 {
+  color: white;
+  font-size: 9px;
+  text-transform: uppercase;
+  padding: 5px;
+  background-color: orange;
+  border-radius: 25px;
+  width: 12%;
+  text-align: center;
+  font-family: 'Share Tech', sans-serif;
+}
+.item-7 {
+  color: white;
+  font-size: 9px;
+  text-transform: uppercase;
+  margin-top: 10px;
+  padding: 5px;
+  background-color: rgb(19, 147, 233);
+  border-radius: 25px;
+  width: 8%;
+  text-align: center;
+  font-family: 'Share Tech', sans-serif;
+}
+footer {
+  background-color: gray;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  color: white;
+  padding: 32px;
+  grid-gap: 24px;
+  font-family: 'Share Tech', sans-serif;
+  position: relative;
+}
+footer div {
+  background-color: gray;
+}
+
+.footer-button {
+  background-color: red;
+  color: white;
+  font-family: 'Share Tech', sans-serif;
+}
+
+footer div a img {
+  width: 100px;
+}
+footer ul {
+  color: white;
+  text-decoration: none;
+  font-family: 'Share Tech', sans-serif;
+
+}
+footer a {
+  text-decoration: none;
+  color: white;
+  font-family: 'Share Tech', sans-serif;
+}
+.card {
+  position: relative;
+  padding: 100px;
+}
+.card h2 {
+  color: black;
+}
+
+/* font-family: 'Share Tech', sans-serif;
+font-family: 'Share Tech Mono', monospace; */
