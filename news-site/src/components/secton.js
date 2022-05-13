@@ -32,7 +32,7 @@ import Science2 from './article-cards/science2';
 
   const Section = () => {
       return(
-          <div>
+          <div className='article-main'>
             {/* {article.map(createCard)} */}
             <Science />
             <Food />

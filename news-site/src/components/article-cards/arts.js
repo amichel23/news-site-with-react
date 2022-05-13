@@ -16,7 +16,7 @@ function Card(props) {
     return(
       <div className="card">
         <img className='images' src={props.img} alt='section-screenshot'></img>
-        <p className="item-1" >{props.section}</p>
+        <p className="item-5" >{props.section}</p>
         <h2>{props.title}</h2>
         <p>{props.article}</p>
       </div>
