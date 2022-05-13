@@ -10,7 +10,7 @@ const article = [
     {
         id: 0,
         imgURL:`${jellyfish}`,
-        section: 'Science',
+        section: 'SCIENCE',
         title: "Lorem ipsum dolor sit amet.",
         article: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et ea impedit libero, beatae animi provident nesciunt molestias ipsam nemo ad."
 
@@ -18,7 +18,7 @@ const article = [
     {
         id: 1,
         imgURL:`${frenchtoast}`,
-        section: 'Science',
+        section: 'FOOD',
         title: "Lorem ipsum dolor sit amet.",
         article: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et ea impedit libero, beatae animi provident nesciunt molestias ipsam nemo ad."
 
@@ -26,7 +26,7 @@ const article = [
     {
         id: 2,
         imgURL:`${weightlifter}`,
-        section: 'Science',
+        section: 'SPORTS',
         title: "Lorem ipsum dolor sit amet.",
         article: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et ea impedit libero, beatae animi provident nesciunt molestias ipsam nemo ad."
 
@@ -34,7 +34,7 @@ const article = [
     {
         id: 3,
         imgURL:`${skull}`,
-        section: 'Science',
+        section: 'SCIENCE',
         title: "Lorem ipsum dolor sit amet.",
         article: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et ea impedit libero, beatae animi provident nesciunt molestias ipsam nemo ad."
 
@@ -42,7 +42,7 @@ const article = [
     {
         id: 4,
         imgURL:`${breakdance}`,
-        section: 'Science',
+        section: 'ARTS',
         title: "Lorem ipsum dolor sit amet.",
         article: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et ea impedit libero, beatae animi provident nesciunt molestias ipsam nemo ad."
 
@@ -50,7 +50,7 @@ const article = [
     {
         id: 5,
         imgURL:`${snowboarder}`,
-        section: 'Science',
+        section: 'SPORTS',
         title: "Lorem ipsum dolor sit amet.",
         article: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et ea impedit libero, beatae animi provident nesciunt molestias ipsam nemo ad."
 

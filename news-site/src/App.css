@@ -44,16 +44,17 @@ nav a {
   font-family: 'Share Tech', sans-serif;
 }
 
-/* .showcase {
+.showcase {
   background: url('./components/images/robot.jpg') center/cover;
   height: 40vh;
   color: white;
   justify-content:last baseline;
   font-family: 'Share Tech', sans-serif;
-} */
+}
 
 .abstract {
   width: 50%;
+  color: white;
 }
 .btn {
   border: none;
@@ -109,7 +110,7 @@ div {
 }
 .anchor {
   text-decoration: none;
-  color: black;
+  color: white;
   font-family: 'Share Tech', sans-serif;
 }
 
